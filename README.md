@@ -1,5 +1,6 @@
 # Coursera-Getting-and-Cleaning-Data-Project
-This is the project of the Coursera online course "Getting and Cleaning Data." The raw data is originally from
+This is the project of the Coursera online course "Getting and Cleaning Data." </br>
+The raw data is originally from:
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
